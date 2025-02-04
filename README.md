@@ -30,7 +30,3 @@ El proyecto está estructurado siguiendo el patrón **MVC (Modelo-Vista-Controla
 - **✏️ Actualizar Registro:** Modifica la información de un registro existente.
 - **🗑️ Eliminar Registro:** Borra registros específicos de la lista.
 - **💾 Almacenamiento Local:** Los datos se guardan de forma persistente en el archivo `datos.txt`.
-
----
-
-## 🗂️ **Estructura del Proyecto**
